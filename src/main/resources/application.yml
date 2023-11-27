@@ -1,0 +1,33 @@
+server:
+  port: 8080
+spring:
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+    default-property-inclusion: non_null
+  profiles:
+    active: local
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-init-sql: SET NAMES utf8mb4 COLLATE utf8mb4_unicode_ci;
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+mybatis-plus:
+  mapper-locations: classpath:mapper/web/*.xml
+  type-aliases-package: com.xhzy.app.**.entity
+  global-config:
+    db-config:
+      id-type: AUTO
+  configuration:
+    cache-enabled: false
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    com.xhzy.app: DEBUG
