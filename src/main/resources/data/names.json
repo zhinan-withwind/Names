@@ -1,0 +1,72 @@
+[
+  {
+    "name": "邱月白",
+    "sentence1": "小时不识月",
+    "sentence2": "呼作白玉盘",
+    "author": "李白",
+    "poem": "古朗月行"
+  },
+  {
+    "name": "邹连楚",
+    "sentence1": "寒雨连江夜入吴",
+    "sentence2": "平明送客楚山孤",
+    "author": "王昌龄",
+    "poem": "芙蓉楼送辛渐"
+  },
+  {
+    "name": "喻芳年",
+    "sentence1": "新年都未有芳华",
+    "sentence2": "二月初惊见草芽",
+    "author": "韩愈",
+    "poem": "春雪"
+  },
+  {
+    "name": "柏胜如",
+    "sentence1": "日出江花红胜火",
+    "sentence2": "春来江水绿如蓝",
+    "author": "白居易",
+    "poem": "忆江南"
+  },
+  {
+    "name": "雷春深",
+    "sentence1": "国破山河在",
+    "sentence2": "城春草木深",
+    "author": "杜甫",
+    "poem": "春望"
+  },
+  {
+    "name": "孔西君",
+    "sentence1": "西风吹老洞庭波",
+    "sentence2": "一夜湘君白发多",
+    "author": "贾岛",
+    "poem": "题龙阳县青草湖"
+  },
+  {
+    "name": "章期雨",
+    "sentence1": "君问归期未有期",
+    "sentence2": "巴山夜雨涨秋池",
+    "author": "李商隐",
+    "poem": "夜雨寄北"
+  },
+  {
+    "name": "云天涯",
+    "sentence1": "九曲黄河万里沙",
+    "sentence2": "浪淘风簸自天涯",
+    "author": "刘禹锡",
+    "poem": "浪淘沙"
+  },
+  {
+    "name": "苗霜枫",
+    "sentence1": "月落乌啼霜满天",
+    "sentence2": "江枫渔火对愁眠",
+    "author": "孟浩然",
+    "poem": "宿桐庐江寄广陵旧游"
+  },
+  {
+    "name": "孟晚舟",
+    "sentence1": "渔舟唱晚",
+    "sentence2": "响穷彭蠡之滨",
+    "author": "王维",
+    "poem": "边城"
+  }
+]

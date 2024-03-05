@@ -1,0 +1,4079 @@
+[
+  {
+    "pinYin": "wánɡ",
+    "character": "王"
+  },
+  {
+    "pinYin": "lǐ",
+    "character": "李"
+  },
+  {
+    "pinYin": "zhānɡ",
+    "character": "张"
+  },
+  {
+    "pinYin": "liú",
+    "character": "刘"
+  },
+  {
+    "pinYin": "chén",
+    "character": "陈"
+  },
+  {
+    "pinYin": "yánɡ",
+    "character": "杨"
+  },
+  {
+    "pinYin": "huánɡ",
+    "character": "黄"
+  },
+  {
+    "pinYin": "wú",
+    "character": "吴"
+  },
+  {
+    "pinYin": "zhào",
+    "character": "赵"
+  },
+  {
+    "pinYin": "zhōu",
+    "character": "周"
+  },
+  {
+    "pinYin": "xú",
+    "character": "徐"
+  },
+  {
+    "pinYin": "sūn",
+    "character": "孙"
+  },
+  {
+    "pinYin": "mǎ",
+    "character": "马"
+  },
+  {
+    "pinYin": "zhū",
+    "character": "朱"
+  },
+  {
+    "pinYin": "hú",
+    "character": "胡"
+  },
+  {
+    "pinYin": "lín",
+    "character": "林"
+  },
+  {
+    "pinYin": "ɡuō",
+    "character": "郭"
+  },
+  {
+    "pinYin": "hé",
+    "character": "何"
+  },
+  {
+    "pinYin": "ɡāo",
+    "character": "高"
+  },
+  {
+    "pinYin": "luó",
+    "character": "罗"
+  },
+  {
+    "pinYin": "zhènɡ",
+    "character": "郑"
+  },
+  {
+    "pinYin": "liánɡ",
+    "character": "梁"
+  },
+  {
+    "pinYin": "xiè",
+    "character": "谢"
+  },
+  {
+    "pinYin": "sònɡ",
+    "character": "宋"
+  },
+  {
+    "pinYin": "tánɡ",
+    "character": "唐"
+  },
+  {
+    "pinYin": "xǔ",
+    "character": "许"
+  },
+  {
+    "pinYin": "dènɡ",
+    "character": "邓"
+  },
+  {
+    "pinYin": "fénɡ",
+    "character": "冯"
+  },
+  {
+    "pinYin": "hán",
+    "character": "韩"
+  },
+  {
+    "pinYin": "cáo",
+    "character": "曹"
+  },
+  {
+    "pinYin": "zēng",
+    "character": "曾"
+  },
+  {
+    "pinYin": "pénɡ",
+    "character": "彭"
+  },
+  {
+    "pinYin": "xiāo",
+    "character": "肖"
+  },
+  {
+    "pinYin": "cài",
+    "character": "蔡"
+  },
+  {
+    "pinYin": "pān",
+    "character": "潘"
+  },
+  {
+    "pinYin": "tián",
+    "character": "田"
+  },
+  {
+    "pinYin": "dǒnɡ",
+    "character": "董"
+  },
+  {
+    "pinYin": "yuán",
+    "character": "袁"
+  },
+  {
+    "pinYin": "yú",
+    "character": "于"
+  },
+  {
+    "pinYin": "yú",
+    "character": "余"
+  },
+  {
+    "pinYin": "jiǎnɡ",
+    "character": "蒋"
+  },
+  {
+    "pinYin": "yè",
+    "character": "叶"
+  },
+  {
+    "pinYin": "dù",
+    "character": "杜"
+  },
+  {
+    "pinYin": "sū",
+    "character": "苏"
+  },
+  {
+    "pinYin": "wèi",
+    "character": "魏"
+  },
+  {
+    "pinYin": "chénɡ",
+    "character": "程"
+  },
+  {
+    "pinYin": "lǚ",
+    "character": "吕"
+  },
+  {
+    "pinYin": "dīnɡ",
+    "character": "丁"
+  },
+  {
+    "pinYin": "shěn",
+    "character": "沈"
+  },
+  {
+    "pinYin": "rén",
+    "character": "任"
+  },
+  {
+    "pinYin": "yáo",
+    "character": "姚"
+  },
+  {
+    "pinYin": "lú",
+    "character": "卢"
+  },
+  {
+    "pinYin": "zhōnɡ",
+    "character": "钟"
+  },
+  {
+    "pinYin": "jiānɡ",
+    "character": "姜"
+  },
+  {
+    "pinYin": "cuī",
+    "character": "崔"
+  },
+  {
+    "pinYin": "tán",
+    "character": "谭"
+  },
+  {
+    "pinYin": "liào",
+    "character": "廖"
+  },
+  {
+    "pinYin": "fàn",
+    "character": "范"
+  },
+  {
+    "pinYin": "wānɡ",
+    "character": "汪"
+  },
+  {
+    "pinYin": "lù",
+    "character": "陆"
+  },
+  {
+    "pinYin": "jīn",
+    "character": "金"
+  },
+  {
+    "pinYin": "shí",
+    "character": "石"
+  },
+  {
+    "pinYin": "dài",
+    "character": "戴"
+  },
+  {
+    "pinYin": "jiǎ",
+    "character": "贾"
+  },
+  {
+    "pinYin": "wéi",
+    "character": "韦"
+  },
+  {
+    "pinYin": "xià",
+    "character": "夏"
+  },
+  {
+    "pinYin": "qiū",
+    "character": "邱"
+  },
+  {
+    "pinYin": "fānɡ",
+    "character": "方"
+  },
+  {
+    "pinYin": "hóu",
+    "character": "侯"
+  },
+  {
+    "pinYin": "zōu",
+    "character": "邹"
+  },
+  {
+    "pinYin": "xiónɡ",
+    "character": "熊"
+  },
+  {
+    "pinYin": "mènɡ",
+    "character": "孟"
+  },
+  {
+    "pinYin": "qín",
+    "character": "秦"
+  },
+  {
+    "pinYin": "bái",
+    "character": "白"
+  },
+  {
+    "pinYin": "máo",
+    "character": "毛"
+  },
+  {
+    "pinYin": "jiānɡ",
+    "character": "江"
+  },
+  {
+    "pinYin": "xuē",
+    "character": "薛"
+  },
+  {
+    "pinYin": "yǐn",
+    "character": "尹"
+  },
+  {
+    "pinYin": "fù",
+    "character": "付"
+  },
+  {
+    "pinYin": "duàn",
+    "character": "段"
+  },
+  {
+    "pinYin": "léi",
+    "character": "雷"
+  },
+  {
+    "pinYin": "lí",
+    "character": "黎"
+  },
+  {
+    "pinYin": "shǐ",
+    "character": "史"
+  },
+  {
+    "pinYin": "lónɡ",
+    "character": "龙"
+  },
+  {
+    "pinYin": "qián",
+    "character": "钱"
+  },
+  {
+    "pinYin": "hè",
+    "character": "贺"
+  },
+  {
+    "pinYin": "táo",
+    "character": "陶"
+  },
+  {
+    "pinYin": "ɡù",
+    "character": "顾"
+  },
+  {
+    "pinYin": "ɡōnɡ",
+    "character": "龚"
+  },
+  {
+    "pinYin": "hǎo",
+    "character": "郝"
+  },
+  {
+    "pinYin": "shào",
+    "character": "邵"
+  },
+  {
+    "pinYin": "wàn",
+    "character": "万"
+  },
+  {
+    "pinYin": "yán",
+    "character": "严"
+  },
+  {
+    "pinYin": "hónɡ",
+    "character": "洪"
+  },
+  {
+    "pinYin": "lài",
+    "character": "赖"
+  },
+  {
+    "pinYin": "wǔ",
+    "character": "武"
+  },
+  {
+    "pinYin": "fù",
+    "character": "傅"
+  },
+  {
+    "pinYin": "mò",
+    "character": "莫"
+  },
+  {
+    "pinYin": "kǒnɡ",
+    "character": "孔"
+  },
+  {
+    "pinYin": "tānɡ",
+    "character": "汤"
+  },
+  {
+    "pinYin": "xiànɡ",
+    "character": "向"
+  },
+  {
+    "pinYin": "chánɡ",
+    "character": "常"
+  },
+  {
+    "pinYin": "wēn",
+    "character": "温"
+  },
+  {
+    "pinYin": "kānɡ",
+    "character": "康"
+  },
+  {
+    "pinYin": "shī",
+    "character": "施"
+  },
+  {
+    "pinYin": "wén",
+    "character": "文"
+  },
+  {
+    "pinYin": "niú",
+    "character": "牛"
+  },
+  {
+    "pinYin": "fán",
+    "character": "樊"
+  },
+  {
+    "pinYin": "ɡě",
+    "character": "葛"
+  },
+  {
+    "pinYin": "xínɡ",
+    "character": "邢"
+  },
+  {
+    "pinYin": "ān",
+    "character": "安"
+  },
+  {
+    "pinYin": "qí",
+    "character": "齐"
+  },
+  {
+    "pinYin": "yì",
+    "character": "易"
+  },
+  {
+    "pinYin": "qiáo",
+    "character": "乔"
+  },
+  {
+    "pinYin": "wǔ",
+    "character": "伍"
+  },
+  {
+    "pinYin": "pánɡ",
+    "character": "庞"
+  },
+  {
+    "pinYin": "yán",
+    "character": "颜"
+  },
+  {
+    "pinYin": "ní",
+    "character": "倪"
+  },
+  {
+    "pinYin": "zhuānɡ",
+    "character": "庄"
+  },
+  {
+    "pinYin": "niè",
+    "character": "聂"
+  },
+  {
+    "pinYin": "zhānɡ",
+    "character": "章"
+  },
+  {
+    "pinYin": "lǔ",
+    "character": "鲁"
+  },
+  {
+    "pinYin": "yuè",
+    "character": "岳"
+  },
+  {
+    "pinYin": "zhái",
+    "character": "翟"
+  },
+  {
+    "pinYin": "shēn",
+    "character": "申"
+  },
+  {
+    "pinYin": "yīn",
+    "character": "殷"
+  },
+  {
+    "pinYin": "zhān",
+    "character": "詹"
+  },
+  {
+    "pinYin": "ōu",
+    "character": "欧"
+  },
+  {
+    "pinYin": "ɡěnɡ",
+    "character": "耿"
+  },
+  {
+    "pinYin": "ɡuān",
+    "character": "关"
+  },
+  {
+    "pinYin": "qín",
+    "character": "覃"
+  },
+  {
+    "pinYin": "lán",
+    "character": "兰"
+  },
+  {
+    "pinYin": "jiāo",
+    "character": "焦"
+  },
+  {
+    "pinYin": "yú",
+    "character": "俞"
+  },
+  {
+    "pinYin": "zuǒ",
+    "character": "左"
+  },
+  {
+    "pinYin": "liǔ",
+    "character": "柳"
+  },
+  {
+    "pinYin": "ɡān",
+    "character": "甘"
+  },
+  {
+    "pinYin": "zhù",
+    "character": "祝"
+  },
+  {
+    "pinYin": "bāo",
+    "character": "包"
+  },
+  {
+    "pinYin": "dài",
+    "character": "代"
+  },
+  {
+    "pinYin": "nìng",
+    "character": "宁"
+  },
+  {
+    "pinYin": "fú",
+    "character": "符"
+  },
+  {
+    "pinYin": "ruǎn",
+    "character": "阮"
+  },
+  {
+    "pinYin": "shànɡ",
+    "character": "尚"
+  },
+  {
+    "pinYin": "shū",
+    "character": "舒"
+  },
+  {
+    "pinYin": "jǐ",
+    "character": "纪"
+  },
+  {
+    "pinYin": "kē",
+    "character": "柯"
+  },
+  {
+    "pinYin": "méi",
+    "character": "梅"
+  },
+  {
+    "pinYin": "tónɡ",
+    "character": "童"
+  },
+  {
+    "pinYin": "bì",
+    "character": "毕"
+  },
+  {
+    "pinYin": "línɡ",
+    "character": "凌"
+  },
+  {
+    "pinYin": "shàn",
+    "character": "单"
+  },
+  {
+    "pinYin": "jì",
+    "character": "季"
+  },
+  {
+    "pinYin": "chénɡ",
+    "character": "成"
+  },
+  {
+    "pinYin": "huò",
+    "character": "霍"
+  },
+  {
+    "pinYin": "miáo",
+    "character": "苗"
+  },
+  {
+    "pinYin": "péi",
+    "character": "裴"
+  },
+  {
+    "pinYin": "tú",
+    "character": "涂"
+  },
+  {
+    "pinYin": "ɡǔ",
+    "character": "谷"
+  },
+  {
+    "pinYin": "qū",
+    "character": "曲"
+  },
+  {
+    "pinYin": "shènɡ",
+    "character": "盛"
+  },
+  {
+    "pinYin": "rǎn",
+    "character": "冉"
+  },
+  {
+    "pinYin": "wēnɡ",
+    "character": "翁"
+  },
+  {
+    "pinYin": "lán",
+    "character": "蓝"
+  },
+  {
+    "pinYin": "luò",
+    "character": "骆"
+  },
+  {
+    "pinYin": "lù",
+    "character": "路"
+  },
+  {
+    "pinYin": "yóu",
+    "character": "游"
+  },
+  {
+    "pinYin": "jìn",
+    "character": "靳"
+  },
+  {
+    "pinYin": "xīn",
+    "character": "辛"
+  },
+  {
+    "pinYin": "ɡuǎn",
+    "character": "管"
+  },
+  {
+    "pinYin": "chái",
+    "character": "柴"
+  },
+  {
+    "pinYin": "bào",
+    "character": "鲍"
+  },
+  {
+    "pinYin": "huà",
+    "character": "华"
+  },
+  {
+    "pinYin": "yù",
+    "character": "喻"
+  },
+  {
+    "pinYin": "qí",
+    "character": "祁"
+  },
+  {
+    "pinYin": "fánɡ",
+    "character": "房"
+  },
+  {
+    "pinYin": "pú",
+    "character": "蒲"
+  },
+  {
+    "pinYin": "ténɡ",
+    "character": "滕"
+  },
+  {
+    "pinYin": "xiāo",
+    "character": "萧"
+  },
+  {
+    "pinYin": "qū",
+    "character": "屈"
+  },
+  {
+    "pinYin": "ráo",
+    "character": "饶"
+  },
+  {
+    "pinYin": "xiè",
+    "character": "解"
+  },
+  {
+    "pinYin": "móu",
+    "character": "牟"
+  },
+  {
+    "pinYin": "ài",
+    "character": "艾"
+  },
+  {
+    "pinYin": "yóu",
+    "character": "尤"
+  },
+  {
+    "pinYin": "shí",
+    "character": "时"
+  },
+  {
+    "pinYin": "yánɡ",
+    "character": "阳"
+  },
+  {
+    "pinYin": "yán",
+    "character": "阎"
+  },
+  {
+    "pinYin": "mù",
+    "character": "穆"
+  },
+  {
+    "pinYin": "yīnɡ",
+    "character": "应"
+  },
+  {
+    "pinYin": "nónɡ",
+    "character": "农"
+  },
+  {
+    "pinYin": "sī",
+    "character": "司"
+  },
+  {
+    "pinYin": "ɡǔ",
+    "character": "古"
+  },
+  {
+    "pinYin": "jí",
+    "character": "吉"
+  },
+  {
+    "pinYin": "zhuó",
+    "character": "卓"
+  },
+  {
+    "pinYin": "chē",
+    "character": "车"
+  },
+  {
+    "pinYin": "jiǎn",
+    "character": "简"
+  },
+  {
+    "pinYin": "lián",
+    "character": "连"
+  },
+  {
+    "pinYin": "miào",
+    "character": "缪"
+  },
+  {
+    "pinYin": "xiànɡ",
+    "character": "项"
+  },
+  {
+    "pinYin": "mài",
+    "character": "麦"
+  },
+  {
+    "pinYin": "chǔ",
+    "character": "褚"
+  },
+  {
+    "pinYin": "dòu",
+    "character": "窦"
+  },
+  {
+    "pinYin": "lóu",
+    "character": "娄"
+  },
+  {
+    "pinYin": "qī",
+    "character": "戚"
+  },
+  {
+    "pinYin": "cén",
+    "character": "岑"
+  },
+  {
+    "pinYin": "dǎnɡ",
+    "character": "党"
+  },
+  {
+    "pinYin": "ɡōnɡ",
+    "character": "宫"
+  },
+  {
+    "pinYin": "jǐnɡ",
+    "character": "景"
+  },
+  {
+    "pinYin": "bǔ",
+    "character": "卜"
+  },
+  {
+    "pinYin": "fèi",
+    "character": "费"
+  },
+  {
+    "pinYin": "lěnɡ",
+    "character": "冷"
+  },
+  {
+    "pinYin": "yàn",
+    "character": "晏"
+  },
+  {
+    "pinYin": "wèi",
+    "character": "卫"
+  },
+  {
+    "pinYin": "xí",
+    "character": "席"
+  },
+  {
+    "pinYin": "bǎi",
+    "character": "柏"
+  },
+  {
+    "pinYin": "mǐ",
+    "character": "米"
+  },
+  {
+    "pinYin": "suí",
+    "character": "隋"
+  },
+  {
+    "pinYin": "zōnɡ",
+    "character": "宗"
+  },
+  {
+    "pinYin": "ɡuì",
+    "character": "桂"
+  },
+  {
+    "pinYin": "qú",
+    "character": "瞿"
+  },
+  {
+    "pinYin": "quán",
+    "character": "全"
+  },
+  {
+    "pinYin": "ɡǒu",
+    "character": "苟"
+  },
+  {
+    "pinYin": "lóu",
+    "character": "楼"
+  },
+  {
+    "pinYin": "mǐn",
+    "character": "闵"
+  },
+  {
+    "pinYin": "tónɡ",
+    "character": "佟"
+  },
+  {
+    "pinYin": "zāng",
+    "character": "臧"
+  },
+  {
+    "pinYin": "biān",
+    "character": "边"
+  },
+  {
+    "pinYin": "biàn",
+    "character": "卞"
+  },
+  {
+    "pinYin": "jī",
+    "character": "姬"
+  },
+  {
+    "pinYin": "wū",
+    "character": "邬"
+  },
+  {
+    "pinYin": "hé",
+    "character": "和"
+  },
+  {
+    "pinYin": "shī",
+    "character": "师"
+  },
+  {
+    "pinYin": "qiú",
+    "character": "仇"
+  },
+  {
+    "pinYin": "luán",
+    "character": "栾"
+  },
+  {
+    "pinYin": "qiū",
+    "character": "丘"
+  },
+  {
+    "pinYin": "shā",
+    "character": "沙"
+  },
+  {
+    "pinYin": "shānɡ",
+    "character": "商"
+  },
+  {
+    "pinYin": "kòu",
+    "character": "寇"
+  },
+  {
+    "pinYin": "rónɡ",
+    "character": "荣"
+  },
+  {
+    "pinYin": "wū",
+    "character": "巫"
+  },
+  {
+    "pinYin": "lánɡ",
+    "character": "郎"
+  },
+  {
+    "pinYin": "sānɡ",
+    "character": "桑"
+  },
+  {
+    "pinYin": "cónɡ",
+    "character": "丛"
+  },
+  {
+    "pinYin": "zhēn",
+    "character": "甄"
+  },
+  {
+    "pinYin": "áo",
+    "character": "敖"
+  },
+  {
+    "pinYin": "yú",
+    "character": "虞"
+  },
+  {
+    "pinYin": "zhònɡ",
+    "character": "仲"
+  },
+  {
+    "pinYin": "chí",
+    "character": "池"
+  },
+  {
+    "pinYin": "ɡǒnɡ",
+    "character": "巩"
+  },
+  {
+    "pinYin": "mínɡ",
+    "character": "明"
+  },
+  {
+    "pinYin": "zhā",
+    "character": "查"
+  },
+  {
+    "pinYin": "má",
+    "character": "麻"
+  },
+  {
+    "pinYin": "yuàn",
+    "character": "苑"
+  },
+  {
+    "pinYin": "chí",
+    "character": "迟"
+  },
+  {
+    "pinYin": "kuànɡ",
+    "character": "邝"
+  },
+  {
+    "pinYin": "fēnɡ",
+    "character": "封"
+  },
+  {
+    "pinYin": "ɡuān",
+    "character": "官"
+  },
+  {
+    "pinYin": "tán",
+    "character": "谈"
+  },
+  {
+    "pinYin": "jū",
+    "character": "鞠"
+  },
+  {
+    "pinYin": "kuānɡ",
+    "character": "匡"
+  },
+  {
+    "pinYin": "huì",
+    "character": "惠"
+  },
+  {
+    "pinYin": "jīnɡ",
+    "character": "荆"
+  },
+  {
+    "pinYin": "yuè",
+    "character": "乐"
+  },
+  {
+    "pinYin": "jì",
+    "character": "冀"
+  },
+  {
+    "pinYin": "xū",
+    "character": "胥"
+  },
+  {
+    "pinYin": "yù",
+    "character": "郁"
+  },
+  {
+    "pinYin": "nán",
+    "character": "南"
+  },
+  {
+    "pinYin": "bān",
+    "character": "班"
+  },
+  {
+    "pinYin": "chǔ",
+    "character": "储"
+  },
+  {
+    "pinYin": "lú",
+    "character": "芦"
+  },
+  {
+    "pinYin": "yuán",
+    "character": "原"
+  },
+  {
+    "pinYin": "lì",
+    "character": "栗"
+  },
+  {
+    "pinYin": "yān",
+    "character": "燕"
+  },
+  {
+    "pinYin": "chǔ",
+    "character": "楚"
+  },
+  {
+    "pinYin": "yān",
+    "character": "鄢"
+  },
+  {
+    "pinYin": "yánɡ",
+    "character": "扬"
+  },
+  {
+    "pinYin": "láo",
+    "character": "劳"
+  },
+  {
+    "pinYin": "chén",
+    "character": "谌"
+  },
+  {
+    "pinYin": "xī",
+    "character": "奚"
+  },
+  {
+    "pinYin": "pí",
+    "character": "皮"
+  },
+  {
+    "pinYin": "lìn",
+    "character": "蔺"
+  },
+  {
+    "pinYin": "sù",
+    "character": "粟"
+  },
+  {
+    "pinYin": "xiǎn",
+    "character": "冼"
+  },
+  {
+    "pinYin": "pán",
+    "character": "盘"
+  },
+  {
+    "pinYin": "mǎn",
+    "character": "满"
+  },
+  {
+    "pinYin": "wén",
+    "character": "闻"
+  },
+  {
+    "pinYin": "lì",
+    "character": "厉"
+  },
+  {
+    "pinYin": "yī",
+    "character": "伊"
+  },
+  {
+    "pinYin": "hòu",
+    "character": "候"
+  },
+  {
+    "pinYin": "tónɡ",
+    "character": "仝"
+  },
+  {
+    "pinYin": "ōu",
+    "character": "区"
+  },
+  {
+    "pinYin": "ɡào",
+    "character": "郜"
+  },
+  {
+    "pinYin": "hǎi",
+    "character": "海"
+  },
+  {
+    "pinYin": "kàn",
+    "character": "阚"
+  },
+  {
+    "pinYin": "huā",
+    "character": "花"
+  },
+  {
+    "pinYin": "quán",
+    "character": "权"
+  },
+  {
+    "pinYin": "qiánɡ",
+    "character": "强"
+  },
+  {
+    "pinYin": "shuài",
+    "character": "帅"
+  },
+  {
+    "pinYin": "tú",
+    "character": "屠"
+  },
+  {
+    "pinYin": "piáo",
+    "character": "朴"
+  },
+  {
+    "pinYin": "ɡě",
+    "character": "盖"
+  },
+  {
+    "pinYin": "liàn",
+    "character": "练"
+  },
+  {
+    "pinYin": "lián",
+    "character": "廉"
+  },
+  {
+    "pinYin": "yǔ",
+    "character": "禹"
+  },
+  {
+    "pinYin": "jǐnɡ",
+    "character": "井"
+  },
+  {
+    "pinYin": "bā",
+    "character": "巴"
+  },
+  {
+    "pinYin": "qī",
+    "character": "漆"
+  },
+  {
+    "pinYin": "zǔ",
+    "character": "祖"
+  },
+  {
+    "pinYin": "fēnɡ",
+    "character": "丰"
+  },
+  {
+    "pinYin": "zhī",
+    "character": "支"
+  },
+  {
+    "pinYin": "qīnɡ",
+    "character": "卿"
+  },
+  {
+    "pinYin": "ɡuó",
+    "character": "国"
+  },
+  {
+    "pinYin": "dí",
+    "character": "狄"
+  },
+  {
+    "pinYin": "pínɡ",
+    "character": "平"
+  },
+  {
+    "pinYin": "jì",
+    "character": "计"
+  },
+  {
+    "pinYin": "suǒ",
+    "character": "索"
+  },
+  {
+    "pinYin": "xuān",
+    "character": "宣"
+  },
+  {
+    "pinYin": "jìn",
+    "character": "晋"
+  },
+  {
+    "pinYin": "xiàng",
+    "character": "相"
+  },
+  {
+    "pinYin": "zhān",
+    "character": "占"
+  },
+  {
+    "pinYin": "chū",
+    "character": "初"
+  },
+  {
+    "pinYin": "mén",
+    "character": "门"
+  },
+  {
+    "pinYin": "yún",
+    "character": "云"
+  },
+  {
+    "pinYin": "rónɡ",
+    "character": "容"
+  },
+  {
+    "pinYin": "jìnɡ",
+    "character": "敬"
+  },
+  {
+    "pinYin": "lái",
+    "character": "来"
+  },
+  {
+    "pinYin": "hù",
+    "character": "扈"
+  },
+  {
+    "pinYin": "cháo",
+    "character": "晁"
+  },
+  {
+    "pinYin": "dū",
+    "character": "都"
+  },
+  {
+    "pinYin": "ruì",
+    "character": "芮"
+  },
+  {
+    "pinYin": "pǔ",
+    "character": "普"
+  },
+  {
+    "pinYin": "quē",
+    "character": "阙"
+  },
+  {
+    "pinYin": "ɡē",
+    "character": "戈"
+  },
+  {
+    "pinYin": "pǔ",
+    "character": "浦"
+  },
+  {
+    "pinYin": "fú",
+    "character": "伏"
+  },
+  {
+    "pinYin": "bó",
+    "character": "薄"
+  },
+  {
+    "pinYin": "lù",
+    "character": "鹿"
+  },
+  {
+    "pinYin": "dǐ",
+    "character": "邸"
+  },
+  {
+    "pinYin": "yōnɡ",
+    "character": "雍"
+  },
+  {
+    "pinYin": "ɡū",
+    "character": "辜"
+  },
+  {
+    "pinYin": "ē",
+    "character": "阿"
+  },
+  {
+    "pinYin": "yánɡ",
+    "character": "羊"
+  },
+  {
+    "pinYin": "mǔ",
+    "character": "母"
+  },
+  {
+    "pinYin": "qí",
+    "character": "亓"
+  },
+  {
+    "pinYin": "qiú",
+    "character": "裘"
+  },
+  {
+    "pinYin": "xiū",
+    "character": "修"
+  },
+  {
+    "pinYin": "tái",
+    "character": "邰"
+  },
+  {
+    "pinYin": "hánɡ",
+    "character": "杭"
+  },
+  {
+    "pinYin": "hè",
+    "character": "赫"
+  },
+  {
+    "pinYin": "kuànɡ",
+    "character": "况"
+  },
+  {
+    "pinYin": "nā",
+    "character": "那"
+  },
+  {
+    "pinYin": "sù",
+    "character": "宿"
+  },
+  {
+    "pinYin": "xiān",
+    "character": "鲜"
+  },
+  {
+    "pinYin": "lù",
+    "character": "逯"
+  },
+  {
+    "pinYin": "yìn",
+    "character": "印"
+  },
+  {
+    "pinYin": "lónɡ",
+    "character": "隆"
+  },
+  {
+    "pinYin": "xí",
+    "character": "习"
+  },
+  {
+    "pinYin": "rú",
+    "character": "茹"
+  },
+  {
+    "pinYin": "zhū",
+    "character": "诸"
+  },
+  {
+    "pinYin": "zhàn",
+    "character": "战"
+  },
+  {
+    "pinYin": "mù",
+    "character": "慕"
+  },
+  {
+    "pinYin": "wēi",
+    "character": "危"
+  },
+  {
+    "pinYin": "yù",
+    "character": "玉"
+  },
+  {
+    "pinYin": "yín",
+    "character": "银"
+  },
+  {
+    "pinYin": "kànɡ",
+    "character": "亢"
+  },
+  {
+    "pinYin": "ɡōnɡ",
+    "character": "公"
+  },
+  {
+    "pinYin": "jī",
+    "character": "嵇"
+  },
+  {
+    "pinYin": "dòu",
+    "character": "豆"
+  },
+  {
+    "pinYin": "hǎ",
+    "character": "哈"
+  },
+  {
+    "pinYin": "zhàn",
+    "character": "湛"
+  },
+  {
+    "pinYin": "bīn",
+    "character": "宾"
+  },
+  {
+    "pinYin": "gòu",
+    "character": "勾"
+  },
+  {
+    "pinYin": "máo",
+    "character": "茅"
+  },
+  {
+    "pinYin": "rónɡ",
+    "character": "戎"
+  },
+  {
+    "pinYin": "lì",
+    "character": "利"
+  },
+  {
+    "pinYin": "hū",
+    "character": "呼"
+  },
+  {
+    "pinYin": "jū",
+    "character": "居"
+  },
+  {
+    "pinYin": "gān",
+    "character": "干"
+  },
+  {
+    "pinYin": "jiē",
+    "character": "揭"
+  },
+  {
+    "pinYin": "dàn",
+    "character": "但"
+  },
+  {
+    "pinYin": "wèi",
+    "character": "尉"
+  },
+  {
+    "pinYin": "sī",
+    "character": "斯"
+  },
+  {
+    "pinYin": "yuán",
+    "character": "元"
+  },
+  {
+    "pinYin": "shù",
+    "character": "束"
+  },
+  {
+    "pinYin": "tán",
+    "character": "檀"
+  },
+  {
+    "pinYin": "yī",
+    "character": "衣"
+  },
+  {
+    "pinYin": "xìn",
+    "character": "信"
+  },
+  {
+    "pinYin": "yīn",
+    "character": "阴"
+  },
+  {
+    "pinYin": "zhǎn",
+    "character": "展"
+  },
+  {
+    "pinYin": "zǎn",
+    "character": "昝"
+  },
+  {
+    "pinYin": "zhì",
+    "character": "智"
+  },
+  {
+    "pinYin": "xìnɡ",
+    "character": "幸"
+  },
+  {
+    "pinYin": "fènɡ",
+    "character": "奉"
+  },
+  {
+    "pinYin": "zhí",
+    "character": "植"
+  },
+  {
+    "pinYin": "fù",
+    "character": "富"
+  },
+  {
+    "pinYin": "hénɡ",
+    "character": "衡"
+  },
+  {
+    "pinYin": "chānɡ",
+    "character": "昌"
+  },
+  {
+    "pinYin": "cháo",
+    "character": "巢"
+  },
+  {
+    "pinYin": "lì",
+    "character": "郦"
+  },
+  {
+    "pinYin": "pánɡ",
+    "character": "逄"
+  },
+  {
+    "pinYin": "shòu",
+    "character": "寿"
+  },
+  {
+    "pinYin": "yóu",
+    "character": "由"
+  },
+  {
+    "pinYin": "zhú",
+    "character": "竺"
+  },
+  {
+    "pinYin": "bèi",
+    "character": "贝"
+  },
+  {
+    "pinYin": "bù",
+    "character": "步"
+  },
+  {
+    "pinYin": "dōnɡ",
+    "character": "东"
+  },
+  {
+    "pinYin": "è",
+    "character": "鄂"
+  },
+  {
+    "pinYin": "ɡōnɡ",
+    "character": "弓"
+  },
+  {
+    "pinYin": "guō",
+    "character": "过"
+  },
+  {
+    "pinYin": "niǔ",
+    "character": "钮"
+  },
+  {
+    "pinYin": "pú",
+    "character": "濮"
+  },
+  {
+    "pinYin": "shuǐ",
+    "character": "水"
+  },
+  {
+    "pinYin": "wèi",
+    "character": "蔚"
+  },
+  {
+    "pinYin": "xī",
+    "character": "郗"
+  },
+  {
+    "pinYin": "xún",
+    "character": "荀"
+  },
+  {
+    "pinYin": "bēn",
+    "character": "贲"
+  },
+  {
+    "pinYin": "bié",
+    "character": "别"
+  },
+  {
+    "pinYin": "bǐnɡ",
+    "character": "邴"
+  },
+  {
+    "pinYin": "cái",
+    "character": "才"
+  },
+  {
+    "pinYin": "cāo",
+    "character": "操"
+  },
+  {
+    "pinYin": "chànɡ",
+    "character": "畅"
+  },
+  {
+    "pinYin": "cóng",
+    "character": "从"
+  },
+  {
+    "pinYin": "dá",
+    "character": "达"
+  },
+  {
+    "pinYin": "fán",
+    "character": "凡"
+  },
+  {
+    "pinYin": "fènɡ",
+    "character": "凤"
+  },
+  {
+    "pinYin": "fú",
+    "character": "扶"
+  },
+  {
+    "pinYin": "ɡònɡ",
+    "character": "贡"
+  },
+  {
+    "pinYin": "hù",
+    "character": "户"
+  },
+  {
+    "pinYin": "huá",
+    "character": "滑"
+  },
+  {
+    "pinYin": "jiá",
+    "character": "郏"
+  },
+  {
+    "pinYin": "jiǎo",
+    "character": "矫"
+  },
+  {
+    "pinYin": "jīnɡ",
+    "character": "经"
+  },
+  {
+    "pinYin": "jìnɡ",
+    "character": "靖"
+  },
+  {
+    "pinYin": "jū",
+    "character": "琚"
+  },
+  {
+    "pinYin": "jù",
+    "character": "巨"
+  },
+  {
+    "pinYin": "kuǎi",
+    "character": "蒯"
+  },
+  {
+    "pinYin": "kuànɡ",
+    "character": "旷"
+  },
+  {
+    "pinYin": "lì",
+    "character": "历"
+  },
+  {
+    "pinYin": "lì",
+    "character": "励"
+  },
+  {
+    "pinYin": "lún",
+    "character": "伦"
+  },
+  {
+    "pinYin": "luò",
+    "character": "雒"
+  },
+  {
+    "pinYin": "máo",
+    "character": "茆"
+  },
+  {
+    "pinYin": "mí",
+    "character": "糜"
+  },
+  {
+    "pinYin": "mì",
+    "character": "宓"
+  },
+  {
+    "pinYin": "mù",
+    "character": "木"
+  },
+  {
+    "pinYin": "qí",
+    "character": "綦"
+  },
+  {
+    "pinYin": "qiáo",
+    "character": "谯"
+  },
+  {
+    "pinYin": "qú",
+    "character": "渠"
+  },
+  {
+    "pinYin": "shān",
+    "character": "山"
+  },
+  {
+    "pinYin": "shēnɡ",
+    "character": "生"
+  },
+  {
+    "pinYin": "shì",
+    "character": "侍"
+  },
+  {
+    "pinYin": "suī",
+    "character": "眭"
+  },
+  {
+    "pinYin": "ténɡ",
+    "character": "腾"
+  },
+  {
+    "pinYin": "tiě",
+    "character": "铁"
+  },
+  {
+    "pinYin": "wǎn",
+    "character": "宛"
+  },
+  {
+    "pinYin": "kuí",
+    "character": "隗"
+  },
+  {
+    "pinYin": "wò",
+    "character": "沃"
+  },
+  {
+    "pinYin": "wū",
+    "character": "乌"
+  },
+  {
+    "pinYin": "wú",
+    "character": "毋"
+  },
+  {
+    "pinYin": "xián",
+    "character": "咸"
+  },
+  {
+    "pinYin": "xīn",
+    "character": "忻"
+  },
+  {
+    "pinYin": "xù",
+    "character": "续"
+  },
+  {
+    "pinYin": "yán",
+    "character": "延"
+  },
+  {
+    "pinYin": "yán",
+    "character": "言"
+  },
+  {
+    "pinYin": "yáo",
+    "character": "尧"
+  },
+  {
+    "pinYin": "yīnɡ",
+    "character": "英"
+  },
+  {
+    "pinYin": "yú",
+    "character": "鱼"
+  },
+  {
+    "pinYin": "yǔ",
+    "character": "庾"
+  },
+  {
+    "pinYin": "zhāo",
+    "character": "招"
+  },
+  {
+    "pinYin": "chóng",
+    "character": "种"
+  },
+  {
+    "pinYin": "zī",
+    "character": "訾"
+  },
+  {
+    "pinYin": "bǎo",
+    "character": "宝"
+  },
+  {
+    "pinYin": "bǎo",
+    "character": "保"
+  },
+  {
+    "pinYin": "bào",
+    "character": "暴"
+  },
+  {
+    "pinYin": "bì",
+    "character": "闭"
+  },
+  {
+    "pinYin": "bù",
+    "character": "布"
+  },
+  {
+    "pinYin": "cáng",
+    "character": "藏"
+  },
+  {
+    "pinYin": "chénɡ",
+    "character": "承"
+  },
+  {
+    "pinYin": "fú",
+    "character": "福"
+  },
+  {
+    "pinYin": "ɡuǒ",
+    "character": "果"
+  },
+  {
+    "pinYin": "hēi",
+    "character": "黑"
+  },
+  {
+    "pinYin": "huái",
+    "character": "怀"
+  },
+  {
+    "pinYin": "huàn",
+    "character": "宦"
+  },
+  {
+    "pinYin": "huí",
+    "character": "回"
+  },
+  {
+    "pinYin": "jí",
+    "character": "汲"
+  },
+  {
+    "pinYin": "jí",
+    "character": "籍"
+  },
+  {
+    "pinYin": "jiǎn",
+    "character": "蹇"
+  },
+  {
+    "pinYin": "jiānɡ",
+    "character": "将"
+  },
+  {
+    "pinYin": "kě",
+    "character": "可"
+  },
+  {
+    "pinYin": "lǐ",
+    "character": "里"
+  },
+  {
+    "pinYin": "liánɡ",
+    "character": "粱"
+  },
+  {
+    "pinYin": "mào",
+    "character": "冒"
+  },
+  {
+    "pinYin": "yāo",
+    "character": "么"
+  },
+  {
+    "pinYin": "nián",
+    "character": "年"
+  },
+  {
+    "pinYin": "pàn",
+    "character": "泮"
+  },
+  {
+    "pinYin": "qiè",
+    "character": "郄"
+  },
+  {
+    "pinYin": "qīnɡ",
+    "character": "青"
+  },
+  {
+    "pinYin": "qiū",
+    "character": "秋"
+  },
+  {
+    "pinYin": "shì",
+    "character": "释"
+  },
+  {
+    "pinYin": "shuānɡ",
+    "character": "双"
+  },
+  {
+    "pinYin": "shuì",
+    "character": "税"
+  },
+  {
+    "pinYin": "tán",
+    "character": "潭"
+  },
+  {
+    "pinYin": "tiān",
+    "character": "天"
+  },
+  {
+    "pinYin": "wànɡ",
+    "character": "望"
+  },
+  {
+    "pinYin": "wèi",
+    "character": "位"
+  },
+  {
+    "pinYin": "wǔ",
+    "character": "仵"
+  },
+  {
+    "pinYin": "xiānɡ",
+    "character": "香"
+  },
+  {
+    "pinYin": "xínɡ",
+    "character": "刑"
+  },
+  {
+    "pinYin": "xuān",
+    "character": "轩"
+  },
+  {
+    "pinYin": "xuán",
+    "character": "玄"
+  },
+  {
+    "pinYin": "xún",
+    "character": "郇"
+  },
+  {
+    "pinYin": "yāo",
+    "character": "要"
+  },
+  {
+    "pinYin": "yǔ",
+    "character": "宇"
+  },
+  {
+    "pinYin": "yùn",
+    "character": "员"
+  },
+  {
+    "pinYin": "āi",
+    "character": "哀"
+  },
+  {
+    "pinYin": "ài",
+    "character": "爱"
+  },
+  {
+    "pinYin": "ánɡ",
+    "character": "昂"
+  },
+  {
+    "pinYin": "áo",
+    "character": "熬"
+  },
+  {
+    "pinYin": "ào",
+    "character": "傲"
+  },
+  {
+    "pinYin": "ào",
+    "character": "奥"
+  },
+  {
+    "pinYin": "bǎ",
+    "character": "把"
+  },
+  {
+    "pinYin": "bǎi",
+    "character": "百"
+  },
+  {
+    "pinYin": "bǎi",
+    "character": "摆"
+  },
+  {
+    "pinYin": "bài",
+    "character": "拜"
+  },
+  {
+    "pinYin": "bānɡ",
+    "character": "邦"
+  },
+  {
+    "pinYin": "běi",
+    "character": "北"
+  },
+  {
+    "pinYin": "běn",
+    "character": "本"
+  },
+  {
+    "pinYin": "bì",
+    "character": "碧"
+  },
+  {
+    "pinYin": "bì",
+    "character": "薜"
+  },
+  {
+    "pinYin": "bó",
+    "character": "伯"
+  },
+  {
+    "pinYin": "bó",
+    "character": "博"
+  },
+  {
+    "pinYin": "bǔ",
+    "character": "补"
+  },
+  {
+    "pinYin": "bù",
+    "character": "部"
+  },
+  {
+    "pinYin": "cǎi",
+    "character": "采"
+  },
+  {
+    "pinYin": "cǎi",
+    "character": "彩"
+  },
+  {
+    "pinYin": "cài",
+    "character": "菜"
+  },
+  {
+    "pinYin": "cānɡ",
+    "character": "仓"
+  },
+  {
+    "pinYin": "cānɡ",
+    "character": "苍"
+  },
+  {
+    "pinYin": "chá",
+    "character": "茶"
+  },
+  {
+    "pinYin": "chǎn",
+    "character": "产"
+  },
+  {
+    "pinYin": "chánɡ",
+    "character": "苌"
+  },
+  {
+    "pinYin": "-",
+    "character": "倡"
+  },
+  {
+    "pinYin": "chànɡ",
+    "character": "唱"
+  },
+  {
+    "pinYin": "chāo",
+    "character": "钞"
+  },
+  {
+    "pinYin": "chāo",
+    "character": "超"
+  },
+  {
+    "pinYin": "cháo",
+    "character": "朝"
+  },
+  {
+    "pinYin": "cháo",
+    "character": "潮"
+  },
+  {
+    "pinYin": "chén",
+    "character": "沉"
+  },
+  {
+    "pinYin": "chén",
+    "character": "晨"
+  },
+  {
+    "pinYin": "chénɡ",
+    "character": "呈"
+  },
+  {
+    "pinYin": "chì",
+    "character": "赤"
+  },
+  {
+    "pinYin": "chì",
+    "character": "敕"
+  },
+  {
+    "pinYin": "chónɡ",
+    "character": "崇"
+  },
+  {
+    "pinYin": "chōu",
+    "character": "瘳"
+  },
+  {
+    "pinYin": "chǒu",
+    "character": "丑"
+  },
+  {
+    "pinYin": "chú",
+    "character": "除"
+  },
+  {
+    "pinYin": "chǔ",
+    "character": "楮"
+  },
+  {
+    "pinYin": "chuǎi",
+    "character": "揣"
+  },
+  {
+    "pinYin": "chuán",
+    "character": "传"
+  },
+  {
+    "pinYin": "chūn",
+    "character": "春"
+  },
+  {
+    "pinYin": "chún",
+    "character": "淳"
+  },
+  {
+    "pinYin": "chuài",
+    "character": "啜"
+  },
+  {
+    "pinYin": "cì",
+    "character": "次"
+  },
+  {
+    "pinYin": "cuàn",
+    "character": "爨"
+  },
+  {
+    "pinYin": "cuī",
+    "character": "催"
+  },
+  {
+    "pinYin": "cuì",
+    "character": "翠"
+  },
+  {
+    "pinYin": "cùn",
+    "character": "寸"
+  },
+  {
+    "pinYin": "dá",
+    "character": "笪"
+  },
+  {
+    "pinYin": "dá",
+    "character": "答"
+  },
+  {
+    "pinYin": "dān",
+    "character": "丹"
+  },
+  {
+    "pinYin": "dàn",
+    "character": "旦"
+  },
+  {
+    "pinYin": "dàn",
+    "character": "淡"
+  },
+  {
+    "pinYin": "dāo",
+    "character": "刀"
+  },
+  {
+    "pinYin": "dào",
+    "character": "道"
+  },
+  {
+    "pinYin": "dé",
+    "character": "德"
+  },
+  {
+    "pinYin": "dí",
+    "character": "迪"
+  },
+  {
+    "pinYin": "dǐ",
+    "character": "底"
+  },
+  {
+    "pinYin": "dì",
+    "character": "第"
+  },
+  {
+    "pinYin": "diàn",
+    "character": "佃"
+  },
+  {
+    "pinYin": "dìnɡ",
+    "character": "定"
+  },
+  {
+    "pinYin": "dōnɡ",
+    "character": "冬"
+  },
+  {
+    "pinYin": "dǒnɡ",
+    "character": "懂"
+  },
+  {
+    "pinYin": "tǒu",
+    "character": "钭"
+  },
+  {
+    "pinYin": "dǔ",
+    "character": "堵"
+  },
+  {
+    "pinYin": "duān",
+    "character": "端"
+  },
+  {
+    "pinYin": "dūn",
+    "character": "敦"
+  },
+  {
+    "pinYin": "dùn",
+    "character": "顿"
+  },
+  {
+    "pinYin": "duō",
+    "character": "多"
+  },
+  {
+    "pinYin": "duǒ",
+    "character": "朵"
+  },
+  {
+    "pinYin": "ēn",
+    "character": "恩"
+  },
+  {
+    "pinYin": "ěr",
+    "character": "尔"
+  },
+  {
+    "pinYin": "nài",
+    "character": "佴"
+  },
+  {
+    "pinYin": "fǎ",
+    "character": "法"
+  },
+  {
+    "pinYin": "pān",
+    "character": "番"
+  },
+  {
+    "pinYin": "fān",
+    "character": "藩"
+  },
+  {
+    "pinYin": "fānɡ",
+    "character": "芳"
+  },
+  {
+    "pinYin": "fēi",
+    "character": "飞"
+  },
+  {
+    "pinYin": "fēi",
+    "character": "斐"
+  },
+  {
+    "pinYin": "fēnɡ",
+    "character": "风"
+  },
+  {
+    "pinYin": "fēnɡ",
+    "character": "酆"
+  },
+  {
+    "pinYin": "fénɡ",
+    "character": "逢"
+  },
+  {
+    "pinYin": "fènɡ",
+    "character": "俸"
+  },
+  {
+    "pinYin": "fú",
+    "character": "苻"
+  },
+  {
+    "pinYin": "fú",
+    "character": "浮"
+  },
+  {
+    "pinYin": "fǔ",
+    "character": "甫"
+  },
+  {
+    "pinYin": "fǔ",
+    "character": "府"
+  },
+  {
+    "pinYin": "fù",
+    "character": "复"
+  },
+  {
+    "pinYin": "ɡàn",
+    "character": "淦"
+  },
+  {
+    "pinYin": "ɡānɡ",
+    "character": "刚"
+  },
+  {
+    "pinYin": "gāo",
+    "character": "皋"
+  },
+  {
+    "pinYin": "ɡǎo",
+    "character": "杲"
+  },
+  {
+    "pinYin": "ɡé",
+    "character": "格"
+  },
+  {
+    "pinYin": "ɡēnɡ",
+    "character": "庚"
+  },
+  {
+    "pinYin": "ɡōnɡ",
+    "character": "恭"
+  },
+  {
+    "pinYin": "ɡǒnɡ",
+    "character": "拱"
+  },
+  {
+    "pinYin": "gōng",
+    "character": "供"
+  },
+  {
+    "pinYin": "ɡōu",
+    "character": "缑"
+  },
+  {
+    "pinYin": "ɡū",
+    "character": "菇"
+  },
+  {
+    "pinYin": "ɡuàn",
+    "character": "贯"
+  },
+  {
+    "pinYin": "guàn",
+    "character": "冠"
+  },
+  {
+    "pinYin": "ɡuānɡ",
+    "character": "光"
+  },
+  {
+    "pinYin": "ɡuǎnɡ",
+    "character": "广"
+  },
+  {
+    "pinYin": "ɡuī",
+    "character": "归"
+  },
+  {
+    "pinYin": "ɡuì",
+    "character": "贵"
+  },
+  {
+    "pinYin": "guō",
+    "character": "呙"
+  },
+  {
+    "pinYin": "ɡuó",
+    "character": "虢"
+  },
+  {
+    "pinYin": "huán",
+    "character": "还"
+  },
+  {
+    "pinYin": "hán",
+    "character": "寒"
+  },
+  {
+    "pinYin": "hàn",
+    "character": "汉"
+  },
+  {
+    "pinYin": "xíng",
+    "character": "行"
+  },
+  {
+    "pinYin": "hāo",
+    "character": "蒿"
+  },
+  {
+    "pinYin": "hào",
+    "character": "好"
+  },
+  {
+    "pinYin": "hào",
+    "character": "昊"
+  },
+  {
+    "pinYin": "hào",
+    "character": "浩"
+  },
+  {
+    "pinYin": "hé",
+    "character": "禾"
+  },
+  {
+    "pinYin": "hé",
+    "character": "合"
+  },
+  {
+    "pinYin": "hé",
+    "character": "河"
+  },
+  {
+    "pinYin": "hé",
+    "character": "荷"
+  },
+  {
+    "pinYin": "hénɡ",
+    "character": "恒"
+  },
+  {
+    "pinYin": "hónɡ",
+    "character": "弘"
+  },
+  {
+    "pinYin": "hóng",
+    "character": "红"
+  },
+  {
+    "pinYin": "hónɡ",
+    "character": "宏"
+  },
+  {
+    "pinYin": "hónɡ",
+    "character": "鸿"
+  },
+  {
+    "pinYin": "hòu",
+    "character": "后"
+  },
+  {
+    "pinYin": "hòu",
+    "character": "厚"
+  },
+  {
+    "pinYin": "hū",
+    "character": "忽"
+  },
+  {
+    "pinYin": "hú",
+    "character": "湖"
+  },
+  {
+    "pinYin": "hǔ",
+    "character": "虎"
+  },
+  {
+    "pinYin": "huà",
+    "character": "化"
+  },
+  {
+    "pinYin": "huái",
+    "character": "淮"
+  },
+  {
+    "pinYin": "huái",
+    "character": "槐"
+  },
+  {
+    "pinYin": "huán",
+    "character": "环"
+  },
+  {
+    "pinYin": "huán",
+    "character": "桓"
+  },
+  {
+    "pinYin": "huánɡ",
+    "character": "皇"
+  },
+  {
+    "pinYin": "huī",
+    "character": "辉"
+  },
+  {
+    "pinYin": "kuài",
+    "character": "会"
+  },
+  {
+    "pinYin": "huǒ",
+    "character": "火"
+  },
+  {
+    "pinYin": "huǒ",
+    "character": "伙"
+  },
+  {
+    "pinYin": "jī",
+    "character": "基"
+  },
+  {
+    "pinYin": "jī",
+    "character": "稽"
+  },
+  {
+    "pinYin": "jí",
+    "character": "及"
+  },
+  {
+    "pinYin": "jí",
+    "character": "戢"
+  },
+  {
+    "pinYin": "jì",
+    "character": "记"
+  },
+  {
+    "pinYin": "jì",
+    "character": "继"
+  },
+  {
+    "pinYin": "jì",
+    "character": "暨"
+  },
+  {
+    "pinYin": "jiā",
+    "character": "加"
+  },
+  {
+    "pinYin": "jiā",
+    "character": "佳"
+  },
+  {
+    "pinYin": "jiā",
+    "character": "家"
+  },
+  {
+    "pinYin": "jiā",
+    "character": "嘉"
+  },
+  {
+    "pinYin": "jiá",
+    "character": "荚"
+  },
+  {
+    "pinYin": "jiǎ",
+    "character": "甲"
+  },
+  {
+    "pinYin": "jiān",
+    "character": "菅"
+  },
+  {
+    "pinYin": "jiǎn",
+    "character": "翦"
+  },
+  {
+    "pinYin": "jiàn",
+    "character": "见"
+  },
+  {
+    "pinYin": "jiàn",
+    "character": "建"
+  },
+  {
+    "pinYin": "jiàn",
+    "character": "剑"
+  },
+  {
+    "pinYin": "jiànɡ",
+    "character": "降"
+  },
+  {
+    "pinYin": "jiāo",
+    "character": "娇"
+  },
+  {
+    "pinYin": "jiǎo",
+    "character": "徼"
+  },
+  {
+    "pinYin": "jiǎo",
+    "character": "缴"
+  },
+  {
+    "pinYin": "jiào",
+    "character": "教"
+  },
+  {
+    "pinYin": "jiē",
+    "character": "接"
+  },
+  {
+    "pinYin": "jié",
+    "character": "节"
+  },
+  {
+    "pinYin": "jié",
+    "character": "杰"
+  },
+  {
+    "pinYin": "jié",
+    "character": "颉"
+  },
+  {
+    "pinYin": "jiè",
+    "character": "介"
+  },
+  {
+    "pinYin": "jīnɡ",
+    "character": "京"
+  },
+  {
+    "pinYin": "jìnɡ",
+    "character": "静"
+  },
+  {
+    "pinYin": "jiǔ",
+    "character": "酒"
+  },
+  {
+    "pinYin": "jiù",
+    "character": "咎"
+  },
+  {
+    "pinYin": "jú",
+    "character": "菊"
+  },
+  {
+    "pinYin": "gōu",
+    "character": "句"
+  },
+  {
+    "pinYin": "jù",
+    "character": "具"
+  },
+  {
+    "pinYin": "jù",
+    "character": "俱"
+  },
+  {
+    "pinYin": "jù",
+    "character": "剧"
+  },
+  {
+    "pinYin": "jué",
+    "character": "矍"
+  },
+  {
+    "pinYin": "jūn",
+    "character": "军"
+  },
+  {
+    "pinYin": "jūn",
+    "character": "君"
+  },
+  {
+    "pinYin": "jùn",
+    "character": "俊"
+  },
+  {
+    "pinYin": "kǎ",
+    "character": "卡"
+  },
+  {
+    "pinYin": "kāi",
+    "character": "开"
+  },
+  {
+    "pinYin": "kǎi",
+    "character": "凯"
+  },
+  {
+    "pinYin": "kān",
+    "character": "勘"
+  },
+  {
+    "pinYin": "kān",
+    "character": "堪"
+  },
+  {
+    "pinYin": "kǎo",
+    "character": "考"
+  },
+  {
+    "pinYin": "kē",
+    "character": "科"
+  },
+  {
+    "pinYin": "kè",
+    "character": "克"
+  },
+  {
+    "pinYin": "kōng",
+    "character": "空"
+  },
+  {
+    "pinYin": "kù",
+    "character": "库"
+  },
+  {
+    "pinYin": "kuài",
+    "character": "郐"
+  },
+  {
+    "pinYin": "kuí",
+    "character": "奎"
+  },
+  {
+    "pinYin": "kuài",
+    "character": "蒉"
+  },
+  {
+    "pinYin": "kuò",
+    "character": "阔"
+  },
+  {
+    "pinYin": "lǎ",
+    "character": "喇"
+  },
+  {
+    "pinYin": "lánɡ",
+    "character": "稂"
+  },
+  {
+    "pinYin": "lǎnɡ",
+    "character": "朗"
+  },
+  {
+    "pinYin": "lè",
+    "character": "勒"
+  },
+  {
+    "pinYin": "lěi",
+    "character": "蕾"
+  },
+  {
+    "pinYin": "lèi",
+    "character": "类"
+  },
+  {
+    "pinYin": "lí",
+    "character": "梨"
+  },
+  {
+    "pinYin": "lǐ",
+    "character": "礼"
+  },
+  {
+    "pinYin": "lǐ",
+    "character": "理"
+  },
+  {
+    "pinYin": "lì",
+    "character": "力"
+  },
+  {
+    "pinYin": "lì",
+    "character": "立"
+  },
+  {
+    "pinYin": "lí",
+    "character": "丽"
+  },
+  {
+    "pinYin": "lián",
+    "character": "莲"
+  },
+  {
+    "pinYin": "liánɡ",
+    "character": "良"
+  },
+  {
+    "pinYin": "liáo",
+    "character": "疗"
+  },
+  {
+    "pinYin": "liáo",
+    "character": "寥"
+  },
+  {
+    "pinYin": "liè",
+    "character": "列"
+  },
+  {
+    "pinYin": "lìn",
+    "character": "吝"
+  },
+  {
+    "pinYin": "línɡ",
+    "character": "泠"
+  },
+  {
+    "pinYin": "línɡ",
+    "character": "零"
+  },
+  {
+    "pinYin": "lìnɡ",
+    "character": "另"
+  },
+  {
+    "pinYin": "lìng",
+    "character": "令"
+  },
+  {
+    "pinYin": "liú",
+    "character": "留"
+  },
+  {
+    "pinYin": "lú",
+    "character": "庐"
+  },
+  {
+    "pinYin": "lú",
+    "character": "炉"
+  },
+  {
+    "pinYin": "lù",
+    "character": "禄"
+  },
+  {
+    "pinYin": "luò",
+    "character": "洛"
+  },
+  {
+    "pinYin": "lǘ",
+    "character": "闾"
+  },
+  {
+    "pinYin": "lǚ",
+    "character": "侣"
+  },
+  {
+    "pinYin": "lǜ",
+    "character": "律"
+  },
+  {
+    "pinYin": "lǜ",
+    "character": "绿"
+  },
+  {
+    "pinYin": "mǎi",
+    "character": "买"
+  },
+  {
+    "pinYin": "màn",
+    "character": "曼"
+  },
+  {
+    "pinYin": "mǎo",
+    "character": "卯"
+  },
+  {
+    "pinYin": "méi",
+    "character": "枚"
+  },
+  {
+    "pinYin": "měi",
+    "character": "美"
+  },
+  {
+    "pinYin": "mènɡ",
+    "character": "梦"
+  },
+  {
+    "pinYin": "mí",
+    "character": "弥"
+  },
+  {
+    "pinYin": "mǐ",
+    "character": "弭"
+  },
+  {
+    "pinYin": "mì",
+    "character": "秘"
+  },
+  {
+    "pinYin": "mì",
+    "character": "密"
+  },
+  {
+    "pinYin": "miào",
+    "character": "妙"
+  },
+  {
+    "pinYin": "mǐn",
+    "character": "闽"
+  },
+  {
+    "pinYin": "mǐn",
+    "character": "敏"
+  },
+  {
+    "pinYin": "mínɡ",
+    "character": "名"
+  },
+  {
+    "pinYin": "miù",
+    "character": "谬"
+  },
+  {
+    "pinYin": "mó",
+    "character": "磨"
+  },
+  {
+    "pinYin": "mò",
+    "character": "墨"
+  },
+  {
+    "pinYin": "mò",
+    "character": "默"
+  },
+  {
+    "pinYin": "mù",
+    "character": "沐"
+  },
+  {
+    "pinYin": "mù",
+    "character": "牧"
+  },
+  {
+    "pinYin": "mù",
+    "character": "睦"
+  },
+  {
+    "pinYin": "nà",
+    "character": "纳"
+  },
+  {
+    "pinYin": "nà",
+    "character": "娜"
+  },
+  {
+    "pinYin": "nǎi",
+    "character": "乃"
+  },
+  {
+    "pinYin": "nài",
+    "character": "能"
+  },
+  {
+    "pinYin": "ní",
+    "character": "尼"
+  },
+  {
+    "pinYin": "niàn",
+    "character": "念"
+  },
+  {
+    "pinYin": "niè",
+    "character": "乜"
+  },
+  {
+    "pinYin": "ōu",
+    "character": "鸥"
+  },
+  {
+    "pinYin": "ǒu",
+    "character": "偶"
+  },
+  {
+    "pinYin": "pān",
+    "character": "攀"
+  },
+  {
+    "pinYin": "pénɡ",
+    "character": "朋"
+  },
+  {
+    "pinYin": "pénɡ",
+    "character": "蓬"
+  },
+  {
+    "pinYin": "pénɡ",
+    "character": "澎"
+  },
+  {
+    "pinYin": "pián",
+    "character": "骈"
+  },
+  {
+    "pinYin": "pǔ",
+    "character": "溥"
+  },
+  {
+    "pinYin": "qī",
+    "character": "柒"
+  },
+  {
+    "pinYin": "qí",
+    "character": "其"
+  },
+  {
+    "pinYin": "qí",
+    "character": "奇"
+  },
+  {
+    "pinYin": "qí",
+    "character": "祈"
+  },
+  {
+    "pinYin": "qí",
+    "character": "耆"
+  },
+  {
+    "pinYin": "qiān",
+    "character": "千"
+  },
+  {
+    "pinYin": "qián",
+    "character": "潜"
+  },
+  {
+    "pinYin": "qiānɡ",
+    "character": "羌"
+  },
+  {
+    "pinYin": "qīn",
+    "character": "钦"
+  },
+  {
+    "pinYin": "qín",
+    "character": "琴"
+  },
+  {
+    "pinYin": "qín",
+    "character": "勤"
+  },
+  {
+    "pinYin": "qīnɡ",
+    "character": "清"
+  },
+  {
+    "pinYin": "qìnɡ",
+    "character": "庆"
+  },
+  {
+    "pinYin": "qiú",
+    "character": "求"
+  },
+  {
+    "pinYin": "qú",
+    "character": "璩"
+  },
+  {
+    "pinYin": "què",
+    "character": "却"
+  },
+  {
+    "pinYin": "ráo",
+    "character": "荛"
+  },
+  {
+    "pinYin": "rào",
+    "character": "绕"
+  },
+  {
+    "pinYin": "rén",
+    "character": "仁"
+  },
+  {
+    "pinYin": "rì",
+    "character": "日"
+  },
+  {
+    "pinYin": "rónɡ",
+    "character": "融"
+  },
+  {
+    "pinYin": "rú",
+    "character": "如"
+  },
+  {
+    "pinYin": "rǔ",
+    "character": "汝"
+  },
+  {
+    "pinYin": "ruì",
+    "character": "瑞"
+  },
+  {
+    "pinYin": "rùn",
+    "character": "闰"
+  },
+  {
+    "pinYin": "rùn",
+    "character": "润"
+  },
+  {
+    "pinYin": "ruò",
+    "character": "若"
+  },
+  {
+    "pinYin": "sā",
+    "character": "撒"
+  },
+  {
+    "pinYin": "sà",
+    "character": "萨"
+  },
+  {
+    "pinYin": "sài",
+    "character": "赛"
+  },
+  {
+    "pinYin": "sǎn",
+    "character": "伞"
+  },
+  {
+    "pinYin": "sēn",
+    "character": "森"
+  },
+  {
+    "pinYin": "shà",
+    "character": "厦"
+  },
+  {
+    "pinYin": "shǎn",
+    "character": "闪"
+  },
+  {
+    "pinYin": "shǎn",
+    "character": "陕"
+  },
+  {
+    "pinYin": "shàn",
+    "character": "善"
+  },
+  {
+    "pinYin": "shǎnɡ",
+    "character": "赏"
+  },
+  {
+    "pinYin": "shàng",
+    "character": "上"
+  },
+  {
+    "pinYin": "sháo",
+    "character": "韶"
+  },
+  {
+    "pinYin": "shào",
+    "character": "绍"
+  },
+  {
+    "pinYin": "shè",
+    "character": "厍"
+  },
+  {
+    "pinYin": "shēn",
+    "character": "莘"
+  },
+  {
+    "pinYin": "shén",
+    "character": "神"
+  },
+  {
+    "pinYin": "-",
+    "character": "甚"
+  },
+  {
+    "pinYin": "shèn",
+    "character": "慎"
+  },
+  {
+    "pinYin": "shēnɡ",
+    "character": "升"
+  },
+  {
+    "pinYin": "shénɡ",
+    "character": "绳"
+  },
+  {
+    "pinYin": "shènɡ",
+    "character": "圣"
+  },
+  {
+    "pinYin": "shī",
+    "character": "诗"
+  },
+  {
+    "pinYin": "shí",
+    "character": "拾"
+  },
+  {
+    "pinYin": "shǐ",
+    "character": "矢"
+  },
+  {
+    "pinYin": "shì",
+    "character": "士"
+  },
+  {
+    "pinYin": "shì",
+    "character": "世"
+  },
+  {
+    "pinYin": "shì",
+    "character": "是"
+  },
+  {
+    "pinYin": "shǒu",
+    "character": "守"
+  },
+  {
+    "pinYin": "shǒu",
+    "character": "首"
+  },
+  {
+    "pinYin": "shū",
+    "character": "殳"
+  },
+  {
+    "pinYin": "shū",
+    "character": "书"
+  },
+  {
+    "pinYin": "shū",
+    "character": "疏"
+  },
+  {
+    "pinYin": "shù",
+    "character": "树"
+  },
+  {
+    "pinYin": "shùn",
+    "character": "顺"
+  },
+  {
+    "pinYin": "sī",
+    "character": "思"
+  },
+  {
+    "pinYin": "sōnɡ",
+    "character": "松"
+  },
+  {
+    "pinYin": "sònɡ",
+    "character": "送"
+  },
+  {
+    "pinYin": "sù",
+    "character": "素"
+  },
+  {
+    "pinYin": "suī",
+    "character": "睢"
+  },
+  {
+    "pinYin": "suí",
+    "character": "随"
+  },
+  {
+    "pinYin": "suǒ",
+    "character": "所"
+  },
+  {
+    "pinYin": "suǒ",
+    "character": "锁"
+  },
+  {
+    "pinYin": "tǎ",
+    "character": "塔"
+  },
+  {
+    "pinYin": "tái",
+    "character": "台"
+  },
+  {
+    "pinYin": "tài",
+    "character": "太"
+  },
+  {
+    "pinYin": "tài",
+    "character": "泰"
+  },
+  {
+    "pinYin": "tán",
+    "character": "郯"
+  },
+  {
+    "pinYin": "tánɡ",
+    "character": "塘"
+  },
+  {
+    "pinYin": "táo",
+    "character": "桃"
+  },
+  {
+    "pinYin": "táo",
+    "character": "淘"
+  },
+  {
+    "pinYin": "ténɡ",
+    "character": "藤"
+  },
+  {
+    "pinYin": "tí",
+    "character": "提"
+  },
+  {
+    "pinYin": "tiē",
+    "character": "帖"
+  },
+  {
+    "pinYin": "tōnɡ",
+    "character": "通"
+  },
+  {
+    "pinYin": "tóng",
+    "character": "同"
+  },
+  {
+    "pinYin": "tú",
+    "character": "徒"
+  },
+  {
+    "pinYin": "tuō",
+    "character": "脱"
+  },
+  {
+    "pinYin": "tuó",
+    "character": "陀"
+  },
+  {
+    "pinYin": "tuǒ",
+    "character": "庹"
+  },
+  {
+    "pinYin": "tuò",
+    "character": "拓"
+  },
+  {
+    "pinYin": "wán",
+    "character": "完"
+  },
+  {
+    "pinYin": "wànɡ",
+    "character": "旺"
+  },
+  {
+    "pinYin": "wēi",
+    "character": "威"
+  },
+  {
+    "pinYin": "wēi",
+    "character": "巍"
+  },
+  {
+    "pinYin": "wěi",
+    "character": "伟"
+  },
+  {
+    "pinYin": "wèi",
+    "character": "未"
+  },
+  {
+    "pinYin": "wèn",
+    "character": "问"
+  },
+  {
+    "pinYin": "wènɡ",
+    "character": "瓮"
+  },
+  {
+    "pinYin": "wú",
+    "character": "无"
+  },
+  {
+    "pinYin": "wú",
+    "character": "吾"
+  },
+  {
+    "pinYin": "wū",
+    "character": "兀"
+  },
+  {
+    "pinYin": "xī",
+    "character": "西"
+  },
+  {
+    "pinYin": "xī",
+    "character": "希"
+  },
+  {
+    "pinYin": "xī",
+    "character": "息"
+  },
+  {
+    "pinYin": "xī",
+    "character": "溪"
+  },
+  {
+    "pinYin": "xí",
+    "character": "袭"
+  },
+  {
+    "pinYin": "xǐ",
+    "character": "洗"
+  },
+  {
+    "pinYin": "xǐ",
+    "character": "喜"
+  },
+  {
+    "pinYin": "xiá",
+    "character": "霞"
+  },
+  {
+    "pinYin": "xiān",
+    "character": "仙"
+  },
+  {
+    "pinYin": "xiān",
+    "character": "先"
+  },
+  {
+    "pinYin": "xián",
+    "character": "贤"
+  },
+  {
+    "pinYin": "xiàn",
+    "character": "线"
+  },
+  {
+    "pinYin": "xiānɡ",
+    "character": "湘"
+  },
+  {
+    "pinYin": "xiànɡ",
+    "character": "象"
+  },
+  {
+    "pinYin": "xiāo",
+    "character": "宵"
+  },
+  {
+    "pinYin": "xiāo",
+    "character": "箫"
+  },
+  {
+    "pinYin": "xiāo",
+    "character": "潇"
+  },
+  {
+    "pinYin": "xiǎo",
+    "character": "晓"
+  },
+  {
+    "pinYin": "xiào",
+    "character": "孝"
+  },
+  {
+    "pinYin": "xiào",
+    "character": "校"
+  },
+  {
+    "pinYin": "xīnɡ",
+    "character": "星"
+  },
+  {
+    "pinYin": "xīng",
+    "character": "兴"
+  },
+  {
+    "pinYin": "xiónɡ",
+    "character": "雄"
+  },
+  {
+    "pinYin": "xū",
+    "character": "吁"
+  },
+  {
+    "pinYin": "xū",
+    "character": "须"
+  },
+  {
+    "pinYin": "xū",
+    "character": "顼"
+  },
+  {
+    "pinYin": "xù",
+    "character": "绪"
+  },
+  {
+    "pinYin": "xué",
+    "character": "学"
+  },
+  {
+    "pinYin": "xuě",
+    "character": "雪"
+  },
+  {
+    "pinYin": "xún",
+    "character": "寻"
+  },
+  {
+    "pinYin": "yá",
+    "character": "牙"
+  },
+  {
+    "pinYin": "yǎ",
+    "character": "雅"
+  },
+  {
+    "pinYin": "yān",
+    "character": "焉"
+  },
+  {
+    "pinYin": "yán",
+    "character": "岩"
+  },
+  {
+    "pinYin": "yàn",
+    "character": "彦"
+  },
+  {
+    "pinYin": "yàn",
+    "character": "艳"
+  },
+  {
+    "pinYin": "yàn",
+    "character": "宴"
+  },
+  {
+    "pinYin": "yánɡ",
+    "character": "洋"
+  },
+  {
+    "pinYin": "yǎnɡ",
+    "character": "仰"
+  },
+  {
+    "pinYin": "yǎnɡ",
+    "character": "养"
+  },
+  {
+    "pinYin": "yànɡ",
+    "character": "样"
+  },
+  {
+    "pinYin": "yāo",
+    "character": "幺"
+  },
+  {
+    "pinYin": "-",
+    "character": "侥"
+  },
+  {
+    "pinYin": "yào",
+    "character": "药"
+  },
+  {
+    "pinYin": "yě",
+    "character": "冶"
+  },
+  {
+    "pinYin": "yě",
+    "character": "野"
+  },
+  {
+    "pinYin": "yè",
+    "character": "业"
+  },
+  {
+    "pinYin": "yī",
+    "character": "依"
+  },
+  {
+    "pinYin": "yí",
+    "character": "仪"
+  },
+  {
+    "pinYin": "yí",
+    "character": "夷"
+  },
+  {
+    "pinYin": "yí",
+    "character": "怡"
+  },
+  {
+    "pinYin": "yí",
+    "character": "宜"
+  },
+  {
+    "pinYin": "yǐ",
+    "character": "乙"
+  },
+  {
+    "pinYin": "yǐ",
+    "character": "蚁"
+  },
+  {
+    "pinYin": "yì",
+    "character": "弋"
+  },
+  {
+    "pinYin": "yì",
+    "character": "义"
+  },
+  {
+    "pinYin": "yì",
+    "character": "奕"
+  },
+  {
+    "pinYin": "yì",
+    "character": "羿"
+  },
+  {
+    "pinYin": "yì",
+    "character": "益"
+  },
+  {
+    "pinYin": "yì",
+    "character": "裔"
+  },
+  {
+    "pinYin": "yì",
+    "character": "翼"
+  },
+  {
+    "pinYin": "yínɡ",
+    "character": "盈"
+  },
+  {
+    "pinYin": "yínɡ",
+    "character": "营"
+  },
+  {
+    "pinYin": "yǒnɡ",
+    "character": "永"
+  },
+  {
+    "pinYin": "yǒnɡ",
+    "character": "勇"
+  },
+  {
+    "pinYin": "yóu",
+    "character": "犹"
+  },
+  {
+    "pinYin": "yóu",
+    "character": "油"
+  },
+  {
+    "pinYin": "yǒu",
+    "character": "友"
+  },
+  {
+    "pinYin": "yǒu",
+    "character": "有"
+  },
+  {
+    "pinYin": "yū",
+    "character": "迂"
+  },
+  {
+    "pinYin": "yǔ",
+    "character": "羽"
+  },
+  {
+    "pinYin": "yù",
+    "character": "遇"
+  },
+  {
+    "pinYin": "yù",
+    "character": "誉"
+  },
+  {
+    "pinYin": "yù",
+    "character": "毓"
+  },
+  {
+    "pinYin": "yuán",
+    "character": "源"
+  },
+  {
+    "pinYin": "yuǎn",
+    "character": "远"
+  },
+  {
+    "pinYin": "yuàn",
+    "character": "院"
+  },
+  {
+    "pinYin": "yuè",
+    "character": "月"
+  },
+  {
+    "pinYin": "yuè",
+    "character": "悦"
+  },
+  {
+    "pinYin": "yuè",
+    "character": "越"
+  },
+  {
+    "pinYin": "yǔn",
+    "character": "允"
+  },
+  {
+    "pinYin": "yùn",
+    "character": "运"
+  },
+  {
+    "pinYin": "yùn",
+    "character": "恽"
+  },
+  {
+    "pinYin": "zài",
+    "character": "载"
+  },
+  {
+    "pinYin": "zǎi",
+    "character": "宰"
+  },
+  {
+    "pinYin": "zé",
+    "character": "迮"
+  },
+  {
+    "pinYin": "zēnɡ",
+    "character": "增"
+  },
+  {
+    "pinYin": "zènɡ",
+    "character": "甑"
+  },
+  {
+    "pinYin": "nián",
+    "character": "粘"
+  },
+  {
+    "pinYin": "zhǎn",
+    "character": "斩"
+  },
+  {
+    "pinYin": "chánɡ",
+    "character": "长"
+  },
+  {
+    "pinYin": "zhǎnɡ",
+    "character": "仉"
+  },
+  {
+    "pinYin": "zhǎnɡ",
+    "character": "掌"
+  },
+  {
+    "pinYin": "zhāo",
+    "character": "钊"
+  },
+  {
+    "pinYin": "zhào",
+    "character": "兆"
+  },
+  {
+    "pinYin": "zhào",
+    "character": "肇"
+  },
+  {
+    "pinYin": "shé",
+    "character": "折"
+  },
+  {
+    "pinYin": "zhēn",
+    "character": "真"
+  },
+  {
+    "pinYin": "zhèn",
+    "character": "阵"
+  },
+  {
+    "pinYin": "zhèn",
+    "character": "镇"
+  },
+  {
+    "pinYin": "zhēnɡ",
+    "character": "征"
+  },
+  {
+    "pinYin": "zhèng",
+    "character": "正"
+  },
+  {
+    "pinYin": "zhènɡ",
+    "character": "政"
+  },
+  {
+    "pinYin": "zhǐ",
+    "character": "只"
+  },
+  {
+    "pinYin": "zhí",
+    "character": "职"
+  },
+  {
+    "pinYin": "zhì",
+    "character": "郅"
+  },
+  {
+    "pinYin": "zhì",
+    "character": "治"
+  },
+  {
+    "pinYin": "zhōng",
+    "character": "中"
+  },
+  {
+    "pinYin": "zhōnɡ",
+    "character": "忠"
+  },
+  {
+    "pinYin": "zhōnɡ",
+    "character": "衷"
+  },
+  {
+    "pinYin": "zhòu",
+    "character": "皱"
+  },
+  {
+    "pinYin": "zhū",
+    "character": "邾"
+  },
+  {
+    "pinYin": "zhū",
+    "character": "珠"
+  },
+  {
+    "pinYin": "zhú",
+    "character": "竹"
+  },
+  {
+    "pinYin": "zhǔ",
+    "character": "主"
+  },
+  {
+    "pinYin": "zhuànɡ",
+    "character": "壮"
+  },
+  {
+    "pinYin": "zhuó",
+    "character": "禚"
+  },
+  {
+    "pinYin": "zī",
+    "character": "资"
+  },
+  {
+    "pinYin": "zǐ",
+    "character": "子"
+  },
+  {
+    "pinYin": "zǐ",
+    "character": "紫"
+  },
+  {
+    "pinYin": "zì",
+    "character": "自"
+  },
+  {
+    "pinYin": "zì",
+    "character": "字"
+  },
+  {
+    "pinYin": "zònɡ",
+    "character": "纵"
+  },
+  {
+    "pinYin": "zǔ",
+    "character": "俎"
+  },
+
+
+
+
+
+  {
+    "pinYin": "yán",
+    "character": "闫"
+  },
+  {
+    "pinYin": "méng",
+    "character": "蒙"
+  },
+  {
+    "pinYin": "diāo",
+    "character": "刁"
+  },
+  {
+    "pinYin": "shé",
+    "character": "佘"
+  },
+  {
+    "pinYin": "yū",
+    "character": "於"
+  },
+  {
+    "pinYin": "zēng,céng",
+    "character": "曽"
+  },
+  {
+    "pinYin": "cí",
+    "character": "慈"
+  },
+  {
+    "pinYin": "fú,fù",
+    "character": "洑"
+  },
+  {
+    "pinYin": "náo",
+    "character": "铙"
+  },
+  {
+    "pinYin": "nìng",
+    "character": "甯"
+  },
+  {
+    "pinYin": "qián,gān",
+    "character": "乾"
+  },
+  {
+    "pinYin": "shào",
+    "character": "卲"
+  },
+  {
+    "pinYin": "tí,dì",
+    "character": "遆"
+  },
+  {
+    "pinYin": "xuān",
+    "character": "禤"
+  },
+  {
+    "pinYin": "zuǒ",
+    "character": "佐"
+  }
+]
