@@ -18,4 +18,4 @@ spring:
 
 logging:
   level:
-    com.xhzy.app: DEBUG
+    run.zhinan.names: DEBUG

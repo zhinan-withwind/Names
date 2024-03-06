@@ -2,7 +2,7 @@ package run.zhinan.names.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import run.zhinan.names.entity.Character;
+import run.zhinan.names.entity.ChineseCharacter;
 
 import java.util.List;
 
@@ -11,5 +11,5 @@ import java.util.List;
 public class FamilyName {
     String name;
     boolean isCompound;
-    List<Character> characters;
+    List<ChineseCharacter> characters;
 }

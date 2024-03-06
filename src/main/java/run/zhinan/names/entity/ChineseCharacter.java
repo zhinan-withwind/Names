@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @TableName("characters")
-public class Character {
+public class ChineseCharacter {
     Long id;
     String unicode;
     String c;

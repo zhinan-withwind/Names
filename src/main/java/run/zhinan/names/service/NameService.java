@@ -6,7 +6,8 @@ import run.zhinan.names.common.FamilyName;
 import run.zhinan.names.common.GivenName;
 import run.zhinan.names.common.Name;
 import run.zhinan.names.data.DataLoader;
-import run.zhinan.names.entity.Character;
+import run.zhinan.names.entity.ChineseCharacter;
+import run.zhinan.names.entity.SingleFamilyName;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,35 +17,42 @@ import java.util.List;
 public class NameService {
     private final DataLoader dataLoader;
 
-    public boolean isCompoundFamilyName(String name) {
-        return name.length() > 1 && dataLoader.loadCompoundFamilyName(name) != null;
-    }
-
-    public Name buildName(String name) {
-        FamilyName familyName = buildFamilyName(name);
-        GivenName  givenName  = buildGivenName(name);
-        return new Name(familyName, givenName);
-    }
-
-    public FamilyName buildFamilyName(String fullName) {
-        boolean isCompound = isCompoundFamilyName(fullName);
-        String familyName = isCompound ? fullName.substring(0, 2) : fullName.substring(0, 1);
-        return new FamilyName(familyName, isCompound, buildCharacterList(familyName));
-    }
-
-    public GivenName buildGivenName(String fullName) {
-        boolean isCompound = isCompoundFamilyName(fullName);
-        String givenName = fullName.substring(isCompound ? 2 : 1);
-        return new GivenName(fullName, buildCharacterList(givenName));
-    }
-
-    private List<Character> buildCharacterList(String name) {
-        List<Character> characters = new ArrayList<>();
+    private List<ChineseCharacter> buildCharacterList(String name, boolean isFamilyName) {
+        List<ChineseCharacter> characters = new ArrayList<>();
         for (int i = 0; i < name.length(); i++) {
             String c = name.substring(i, i + 1);
-            Character character = dataLoader.loadCharacter(c);
+            ChineseCharacter character = dataLoader.loadCharacter(c);
+            if (isFamilyName) {
+                SingleFamilyName familyName = dataLoader.loadFamilyName(c);
+                if (familyName != null) character.setPinyin(familyName.getPinyin());
+            }
             characters.add(character);
         }
         return characters;
+    }
+
+    public boolean isCompoundFamilyName(String familyName) {
+        return familyName.length() > 1 && dataLoader.loadCompoundFamilyName(familyName) != null;
+    }
+
+    public boolean hasCompoundFamilyName(String fullName) {
+        return fullName.length() > 2 && isCompoundFamilyName(fullName.substring(0, 2));
+    }
+
+    public FamilyName buildFamilyName(String familyName) {
+        return new FamilyName(familyName, isCompoundFamilyName(familyName), buildCharacterList(familyName, true));
+    }
+
+    public GivenName buildGivenName(String givenName) {
+        return new GivenName(givenName, buildCharacterList(givenName, false));
+    }
+
+    public Name buildName(String familyName, String givenName) {
+        return new Name(buildFamilyName(familyName), buildGivenName(givenName));
+    }
+
+    public Name buildName(String fullName) {
+        int length = hasCompoundFamilyName(fullName) ? 2 : 1;
+        return buildName(fullName.substring(0, length), fullName.substring(length));
     }
 }

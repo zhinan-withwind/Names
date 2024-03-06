@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @TableName("family_names")
-public class FamilyName {
+public class SingleFamilyName {
     Long id;
     String c;
     String pinyin;
